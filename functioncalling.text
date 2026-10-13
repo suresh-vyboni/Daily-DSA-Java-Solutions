@@ -1,0 +1,20 @@
+/*import java.util.*;
+class printNumber
+{
+    public void number()
+    {       
+        Scanner sc=new Scanner(System.in);
+          
+              System.out.print("take the user input:");
+              int  num=sc.nextInt();
+              System.out.print(num);
+    }
+
+public static void main(String args[])
+{
+     
+    printNumber sol = new printNumber();
+    sol.number();
+}
+}
+*/
